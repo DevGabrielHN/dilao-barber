@@ -1,2 +1,2 @@
-# dilao_barber
+# dilao-barber
 Projeto pessoal para uma barbearia
